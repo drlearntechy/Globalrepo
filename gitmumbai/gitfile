@@ -1,2 +1,4 @@
 Hi Git testing
 i am going
+#!/bin/bash
+git status
