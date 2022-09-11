@@ -1,4 +1,19 @@
-Hi Git testing
-i am going
 #!/bin/bash
+
+Hi Git testing
+i am goi
 git status
+git status
+
+git checkout branch
+git status.
+git log
+git add .
+git status
+git commit -m "4th commit from mumbai"
+git status
+git log
+git show
+git push origin Testbreanch
+
+
